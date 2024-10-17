@@ -21,8 +21,8 @@ I am constantly enhancing my technical skill set through continuous learning and
 - Innovative solutions for cybersecurity
 
 ## 📫 How to reach me ...
-- LinkedIn: [linkedin.com/in/franciscodematos/](https://www.linkedin.com/in/bruna-santos0/)
-- GitHub: [github.com/cent0day](https://github.com/0bsantos)
+- LinkedIn: [https://www.linkedin.com/in/bruna-santos0/]
+- GitHub: [https://github.com/0bsantos]
 
 ## ⚡ Fun fact:
 I am an avid participant in TryHackMe challenges, currently ranking in the top 10% globally, which helps me continually sharpen my skills in safeguarding systems and data against cyber threats.
