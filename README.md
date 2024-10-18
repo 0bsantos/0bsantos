@@ -26,5 +26,6 @@ I am constantly enhancing my technical skill set through continuous learning and
 
 ## ⚡ Fun fact:
 I am an avid participant in TryHackMe challenges, currently ranking in the top 10% globally, which helps me continually sharpen my skills in safeguarding systems and data against cyber threats.
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2265486)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/San.Bru.png)
+
 
